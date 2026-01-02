@@ -14,7 +14,7 @@ public class StudentPerformance {
 
         while (i <=n-1) {
 
-            if (marks[i] >= 50) {
+            if (marks[i] >= 60) {
 
                 System.out.println("Student " + (i + 1) + ": Pass");
 
@@ -29,5 +29,6 @@ public class StudentPerformance {
         }
 
     }
+
 
 
