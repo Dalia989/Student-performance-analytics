@@ -12,7 +12,7 @@ public class StudentPerformance {
 
 
 
-        while (i < n) {
+        while (i <=n-1) {
 
             if (marks[i] >= 50) {
 
@@ -29,4 +29,5 @@ public class StudentPerformance {
         }
 
     }
+
 
